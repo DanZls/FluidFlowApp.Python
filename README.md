@@ -7,17 +7,21 @@ Overview:
 
 Adding model parameters in an interactive window
 
-![Screenshot (1290)](https://github.com/DanZls/FlowApp/assets/32984778/b968c919-918d-4bac-aba4-cb5de7ca30b2)
+<img width="1920" height="902" alt="313426186-26d34e31-8777-4589-bf2e-c41f6c040fd7" src="https://github.com/user-attachments/assets/297456fe-9102-4d33-aea9-c006f980db6b" />
+
 
 Observing flow simulation results after calculation and saving to a database
 
-![Screenshot (1291)](https://github.com/DanZls/FlowApp/assets/32984778/6bc1357f-26a4-4864-b02c-9aff3292dc5a)
-![Screenshot (1292)](https://github.com/DanZls/FlowApp/assets/32984778/7e5ead3a-c53f-470e-b70e-48e85d49f299)
-![Screenshot (1293)](https://github.com/DanZls/FlowApp/assets/32984778/35d7b099-f766-4274-a4d6-97b9478e17b3)
+<img width="1920" height="917" alt="313426119-35d7b099-f766-4274-a4d6-97b9478e17b3" src="https://github.com/user-attachments/assets/67128690-a26f-4c68-9433-e207c7ae55e0" />
+
+<img width="1920" height="907" alt="313426118-7e5ead3a-c53f-470e-b70e-48e85d49f299" src="https://github.com/user-attachments/assets/8e812fbf-a904-4113-ae52-e2b5bc731273" />
+
+<img width="1920" height="913" alt="313426116-6bc1357f-26a4-4864-b02c-9aff3292dc5a" src="https://github.com/user-attachments/assets/2ac7f683-700e-44a7-8f70-e8ab72f23d3e" />
+
 
 Checking logs for troubleshooting
 
-![Screenshot (1294)](https://github.com/DanZls/FlowApp/assets/32984778/26d34e31-8777-4589-bf2e-c41f6c040fd7)
+<img width="1918" height="908" alt="313426019-b968c919-918d-4bac-aba4-cb5de7ca30b2" src="https://github.com/user-attachments/assets/1ea4117a-9551-486b-ba81-04ae00fde168" />
 
 
 Theoretical description, justification and usage examples for the used simulation method can be found in following publications:

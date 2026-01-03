@@ -1,0 +1,1 @@
+databaseConnectionString = "mongodb+srv://danzloschastiev:hnY9526jdmhSFojY@cluster0.ek8yj6k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"

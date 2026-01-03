@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  server:
+    container_name: flow-app-server
+    image: flow-app-server-image
+    build: 
+      context: ./server
+    ports:
+      - 5000:5000
+    restart: on-failure
+
+  client:
+    container_name: flow-app-client
+    image: flow-app-client-image
+    build: 
+      context: ./client
+    ports:
+      - 4200:4200
+    depends_on:
+      - server
